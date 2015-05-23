@@ -6,3 +6,5 @@ gitHubを楽しもう～～
 ３．Pull-Request
 ４．レビュー
 ５．マージ
+
+forkで書き込んでみました！
